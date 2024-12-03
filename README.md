@@ -1,4 +1,4 @@
-# MobileConfig Installer
+# iOS MobileConfig Installer
 
 A tool for iOS to help users install `.mobileconfig` profiles directly on iOS devices. This tool provides three options to create or upload a `.mobileconfig` profile:
 
